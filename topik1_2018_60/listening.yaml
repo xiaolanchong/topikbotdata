@@ -18,6 +18,7 @@ question:
         ③ 아니요, 사과가 비싸요. 
         ④ 아니요, 사과가 좋아요.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/01.mp3
     choice: [1, 2, 3, 4]
     answer: 2
     comment: |-
@@ -31,6 +32,7 @@ question:
         ③ 아니요, 학교에 안 가요. 
         ④ 아니요, 학교에 있어요.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/02.mp3
     choice: [1, 2, 3, 4]
     answer: 2
     comment: |-
@@ -44,6 +46,7 @@ question:
         ③ 한 시에 샀어요. 
         ④ 시장에서 샀어요.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/03.mp3
     choice: [1, 2, 3, 4]
     answer: 3
     comment: |-
@@ -57,6 +60,7 @@ question:
         ③ 내일 만나요. 
         ④ 정말 좋아해요.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/04.mp3
     choice: [1, 2, 3, 4]
     answer: 2
     comment: |-
@@ -77,7 +81,7 @@ question:
         ③ 반가워요. 
         ④ 괜찮아요.
 
-
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/05.mp3
     choice: [1, 2, 3, 4]
     answer: 2
     comment: |-
@@ -91,6 +95,7 @@ question:
         ③ 네, 안녕히 계세요. 
         ④ 네, 오랜만이에요.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/06.mp3
     choice: [1, 2, 3, 4]
     answer: 3
     comment: |-
@@ -107,6 +112,7 @@ question:
         ① 꽃집 ② 식당 ③ 우체국 ④ 백화점
 
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/07.mp3
     choice: [1, 2, 3, 4]
     answer: 4
     comment: |-
@@ -120,6 +126,7 @@ question:
         ③ 도서관 
         ④ 여행사
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/08.mp3
     choice: [1, 2, 3, 4]
     answer: 3
     comment: |-
@@ -133,6 +140,7 @@ question:
         ③ 극장 
         ④ 공원
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/09.mp3
     choice: [1, 2, 3, 4]
     answer: 1
     comment: |-
@@ -146,6 +154,7 @@ question:
         ③ 운동장 
         ④ 박물관
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/10.mp3
     choice: [1, 2, 3, 4]
     answer: 1
     comment: |-
@@ -168,6 +177,7 @@ question:
         ③ 시간 
         ④ 가족
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/11.mp3
     choice: [1, 2, 3, 4]
     answer: 2
     comment: |-
@@ -178,6 +188,7 @@ question:
         12. (3점)
         ① 취미 ② 이름 ③ 음식 ④ 장소
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/12.mp3
     choice: [1, 2, 3, 4]
     answer: 1
     comment: |-
@@ -191,6 +202,7 @@ question:
         ③ 날씨 
         ④ 수업
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/13.mp3
     choice: [1, 2, 3, 4]
     answer: 2
     comment: |-
@@ -204,6 +216,7 @@ question:
         ③ 고향 
         ④ 교통
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/14.mp3
     choice: [1, 2, 3, 4]
     answer: 3
     comment: |-
@@ -212,8 +225,9 @@ question:
   # 15
   - text: |-
         ※ ［15～16］ 다음 대화를 듣고 알맞은 그림을 고르십시오. (각 4점)
-        %image15%
+        http://tiny.cc/knt09y
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/15.mp3
     choice: [1, 2, 3, 4]
     answer: 2
     comment: |-
@@ -221,8 +235,9 @@ question:
 
   # 16
   - text: |-
-        %image16%
+        http://tiny.cc/3nt09y
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/16.mp3
     choice: [1, 2, 3, 4]
     answer: 1
     comment: |-
@@ -244,6 +259,7 @@ question:
         ③ 남자는 요즘 밥을 잘 못 먹습니다.
         ④ 남자는 보통 집에서 저녁을 먹습니다.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/17.mp3
     choice: [1, 2, 3, 4]
     answer: 4
     comment: |-
@@ -257,6 +273,7 @@ question:
         ③ 남자는 티셔츠를 사려고 합니다.
         ④ 여자는 남자에게 선물을 합니다.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/18.mp3
     choice: [1, 2, 3, 4]
     answer: 3
     comment: |-
@@ -270,6 +287,7 @@ question:
         ③ 여자는 오늘 몸이 안 좋습니다.
         ④ 여자는 어제 학교에 안 갔습니다.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/19.mp3
     choice: [1, 2, 3, 4]
     answer: 4
     comment: |-
@@ -283,6 +301,7 @@ question:
         ③ 남자는 지금부터 회의 준비를 합니다.
         ④ 여자는 남자와 같이 회의를 할 겁니다.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/20.mp3
     choice: [1, 2, 3, 4]
     answer: 4
     comment: |-
@@ -296,6 +315,7 @@ question:
         ③ 남자는 그림 보는 것을 좋아합니다.
         ④ 여자는 지금 미술관에 가고 있습니다.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/21.mp3
     choice: [1, 2, 3, 4]
     answer: 3
     comment: |-
@@ -310,6 +330,7 @@ question:
         ③ 지하철로 회사에 가는 것이 더 좋습니다.
         ④ 회사에서 지하철역이 가까워서 좋습니다.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/22.mp3
     choice: [1, 2, 3, 4]
     answer: 3
     comment: |-
@@ -323,6 +344,7 @@ question:
         ③ 기다리지 않고 바로 먹고 싶습니다.
         ④ 사람이 적은 식당에 가는 것이 좋습니다.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/23.mp3
     choice: [1, 2, 3, 4]
     answer: 1
     comment: |-
@@ -336,6 +358,7 @@ question:
         ③ 오랫동안 여행을 하는 것이 좋습니다.
         ④ 계획을 세우고 여행을 가면 좋겠습니다.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/24.mp3
     choice: [1, 2, 3, 4]
     answer: 4
     comment: |-
@@ -350,6 +373,7 @@ question:
         ③ 행사 날짜를 정하고 싶어서
         ④ 더 많은 신청을 받고 싶어서
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/25.mp3
     choice: [1, 2, 3, 4]
     answer: 2
     comment: |-
@@ -363,6 +387,7 @@ question:
         ③ 학생회관에서 동아리 발표회를 합니다.
         ④ 작년보다 발표를 신청한 동아리가 많습니다.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/26.mp3
     choice: [1, 2, 3, 4]
     answer: 4
     comment: |-
@@ -377,6 +402,7 @@ question:
         ③ 인터넷 수업의 좋은 점
         ④ 인터넷으로 많이 하는 일
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/27.mp3
     choice: [1, 2, 3, 4]
     answer: 3
     comment: |-
@@ -390,6 +416,7 @@ question:
         ③ 여자는 남자와 같이 운동을 할 겁니다.
         ④ 남자는 여자에게 운동을 소개했습니다.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/28.mp3
     choice: [1, 2, 3, 4]
     answer: 1
     comment: |-
@@ -404,6 +431,7 @@ question:
         ③ 한국 문화에 대한 책이 인기가 있어서
         ④ 한국 사람의 생활 모습을 소개하고 싶어서
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/29.mp3
     choice: [1, 2, 3, 4]
     answer: 4
     comment: |-
@@ -417,6 +445,7 @@ question:
         ③ 남자는 외국인을 위한 책을 여러 권 썼습니다.
         ④ 남자는 앞으로 외국 문화에 대한 책을 쓸 겁니다.
 
+    audio: https://github.com/xiaolanchong/topikbotdata/raw/master/topik1_2018_60/audio/audio/30.mp3
     choice: [1, 2, 3, 4]
     answer: 1
     comment: |-
